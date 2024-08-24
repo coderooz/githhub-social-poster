@@ -2,7 +2,9 @@
 
 This is a program is for automatically post github repository/repos on social media automatically.
 
-This is an extention or application of the [Social-Media-Poster]() project.
+This is an extention or application of the [Automate-Posting-App](https://github.com/coderooz/automate-posting-app) project.
+
+*Note*: You ca check the posts on my [fb page](https://www.facebook.com/people/Coderooz/61562424744859/)
 
 ## Feature
 
@@ -15,7 +17,7 @@ This is an extention or application of the [Social-Media-Poster]() project.
 
 ## Requirements
 
-- [**Mongodb**]() : For storing all the data.
+- [**Mongodb**](https://www.mongodb.com) : For storing all the data.
 
 - **Libraries**:
     - **python-dotenv** : For handling data from `.env` file.
